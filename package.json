@@ -11,6 +11,6 @@
   "dependencies": {
     "eslint-plugin-react": "^6.9.0",
     "eslint": "^3.15.0",
-    "babel-eslint": "^3.1.17"
+    "babel-eslint": "^6.0.0"
   }
 }
