@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-oscu",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "ESLint configuration for Open Source CU projects",
   "main": "index.js",
   "scripts": {
@@ -9,8 +9,8 @@
   "author": "Matt Dean <matt@trabian.com>",
   "license": "MIT",
   "dependencies": {
-    "eslint-plugin-react": "^2.5.2",
-    "eslint": "^0.23.0",
+    "eslint-plugin-react": "^6.9.0",
+    "eslint": "^3.15.0",
     "babel-eslint": "^3.1.17"
   }
 }
